@@ -1,5 +1,5 @@
 {
-  "name": "numjs",
+  "name": "@vhmartinezm/numjs",
   "version": "0.16.1",
   "description": "Like NumPy, in JavaScript",
   "main": "src/index.js",
@@ -14,7 +14,7 @@
     "ndarray-fft": "^1.0.0",
     "ndarray-gemm": "^1.0.0",
     "ndarray-ops": "^1.2.2",
-    "sharp": "^0.27.2",
+    "sharp": "^0.29.0",
     "typedarray-pool": "^1.1.0"
   },
   "devDependencies": {
@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nicolaspanel/numjs.git"
+    "url": "git://github.com/vhmartinezm/numjs.git"
   },
   "keywords": [
     "ndarray",
@@ -82,7 +82,7 @@
     "shape",
     "numpy"
   ],
-  "author": "Nicolas Panel",
+  "author": "Víctor Martínez",
   "license": "MIT",
   "readmeFilename": "README.md",
   "browser": {
